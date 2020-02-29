@@ -1,0 +1,13 @@
+1)Explain what terminal is in your own words.
+
+ Is an interface where we can hold information, and allows us to access command lines from GUI.
+
+2)What is the major difference between Git and Github?
+
+The difference between Git and GitHub is that in Git is an open-source version control system where developers create constant changes to the code, releasing new versions up to and after the first official release. And in Github developers can easily collaborate, as they can download a new version of the software, make changes, and upload the newest revision. Every developer can see these new changes, download them, and contribute.
+
+3)Why do we use Github?
+
+Because GitHub is a repository that allows us to share our work and collaborate with other people on projects. 
+
+
